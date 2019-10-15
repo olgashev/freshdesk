@@ -1,0 +1,15 @@
+{
+    "name": "effy/freshdesk",
+    "license": "Effy Copyright",
+    "type": "magento-module",
+    "description": "Effy_Freshdesk",
+    "authors": [
+        {
+            "name": "Effy",
+            "email":"info@effy.com"
+        }
+    ],
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}

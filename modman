@@ -1,0 +1,4 @@
+src/app/code/community/Effy/Freshdesk                                 app/code/community/Effy/Freshdesk
+src/app/etc/modules/Effy_Freshdesk.xml                                app/etc/modules/Effy_Freshdesk.xml
+src/app/design/adminhtml/default/default/layout/effy_freshdesk.xml    app/design/adminhtml/default/default/layout/effy_freshdesk.xml
+src/app/design/adminhtml/default/default/template/freshdesk           app/design/adminhtml/default/default/template/freshdesk
